@@ -23,25 +23,18 @@ Built as a final year B.Tech major project at **SRM Institute of Science and Tec
 
 ## 📂 Bulk Feedback Analysis
 
-![Bulk Feedback Analysis](sandbox:/mnt/data/6a9f6b2b-de50-43e5-866d-241fa62ef935.png)
-
-*Fig 4.8 Bulk Feedback Analysis*
+<img width="928" height="497" alt="image" src="https://github.com/user-attachments/assets/d6edaeaf-e341-4bef-a1b9-00d26950624f" />
 
 ---
 
 ## 👨‍🏫 Faculty Wise Analysis
-
-![Faculty Wise Analysis](sandbox:/mnt/data/173e33b8-f8fe-41ff-ae9b-211deb8986dd.png)
-
-*Fig 4.9 Faculty Wise Analysis*
+<img width="914" height="483" alt="image" src="https://github.com/user-attachments/assets/8a93c794-7656-4dca-b51a-f6d689aad1bb" />
 
 ---
 
 ## 📈 Sentiment Distributions
 
-![Sentiment Distributions](sandbox:/mnt/data/5b75694b-485b-492f-8fcf-5a82d1300432.png)
-
-*Fig 4.10 Sentiment Distributions*
+<img width="908" height="482" alt="image" src="https://github.com/user-attachments/assets/80ed6483-8efa-435e-8306-df01a4139982" />
 
 ---
 
