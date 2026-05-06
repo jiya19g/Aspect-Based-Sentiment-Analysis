@@ -1,4 +1,4 @@
-# 📊 Aspect-Based Sentiment Analysis of Student Feedback
+# Aspect-Based Sentiment Analysis of Student Feedback
 
 An AI-powered educational analytics system that performs **Aspect-Based Sentiment Analysis (ABSA)** on student feedback using **Machine Learning, Deep Learning, NLP, and Streamlit**.
 The project analyzes student reviews across multiple academic aspects such as teaching quality, assessments, labs, workload, mentoring, and learning outcomes to generate actionable institutional insights.
@@ -7,40 +7,40 @@ Built as a final year B.Tech major project at **SRM Institute of Science and Tec
 
 ---
 
-# 🚀 Dashboard Preview
+# Dashboard Preview
 
-## 🖥️ Main Dashboard
+## Main Dashboard
 
 <img width="894" height="480" alt="image" src="https://github.com/user-attachments/assets/f94b9109-12a6-46d8-85ca-442eecdd3f3e" />
 
 ---
 
-## 🔍 Single Feedback Analysis
+## Single Feedback Analysis
 
 <img width="896" height="551" alt="image" src="https://github.com/user-attachments/assets/a9ef9aba-ca17-4f1b-8625-892eeb1a0bd9" />
 
 ---
 
-## 📂 Bulk Feedback Analysis
+## Bulk Feedback Analysis
 
 <img width="928" height="497" alt="image" src="https://github.com/user-attachments/assets/d6edaeaf-e341-4bef-a1b9-00d26950624f" />
 
 ---
 
-## 👨‍🏫 Faculty Wise Analysis
+## Faculty Wise Analysis
 <img width="914" height="483" alt="image" src="https://github.com/user-attachments/assets/8a93c794-7656-4dca-b51a-f6d689aad1bb" />
 
 ---
 
-## 📈 Sentiment Distributions
+## Sentiment Distributions
 
 <img width="908" height="482" alt="image" src="https://github.com/user-attachments/assets/80ed6483-8efa-435e-8306-df01a4139982" />
 
 ---
 
-# ✨ Features
+# Features
 
-## 🔍 Aspect-Based Analysis
+## Aspect-Based Analysis
 
 Detects sentiments for:
 
@@ -54,7 +54,7 @@ Detects sentiments for:
 
 ---
 
-## 📈 Interactive Dashboard
+## Interactive Dashboard
 
 Built using Streamlit with:
 
@@ -68,8 +68,7 @@ Built using Streamlit with:
 
 ---
 
-## 🤖 AI & NLP Pipeline
-
+## AI & NLP Pipeline
 * Sentence-BERT based aspect labeling
 * CNN + LSTM sentiment classifier
 * Comparative ML benchmarking
@@ -79,7 +78,7 @@ Built using Streamlit with:
 
 ---
 
-## 📊 Visualization Support
+## Visualization Support
 
 Integrated with:
 
@@ -97,7 +96,7 @@ For:
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -124,7 +123,7 @@ For:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 ├── app.py
@@ -140,7 +139,7 @@ For:
 
 ---
 
-# 📦 Installation
+# Installation
 
 ## 1️⃣ Clone Repository
 
@@ -182,7 +181,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Application
+# Run the Application
 
 ```bash
 streamlit run app.py
@@ -190,7 +189,7 @@ streamlit run app.py
 
 ---
 
-# 📋 Requirements
+# Requirements
 
 ```txt
 streamlit>=1.28.0
@@ -211,7 +210,7 @@ torchvision
 
 ---
 
-# 🧪 Models Evaluated
+# Models Evaluated
 
 ## Machine Learning Models
 
@@ -240,7 +239,7 @@ torchvision
 
 ---
 
-# 📊 Dataset Information
+# Dataset Information
 
 The dataset was built using:
 
@@ -251,7 +250,7 @@ The dataset was built using:
 
 ### Dataset Size
 
-📌 `133,065` feedback records 
+`133,065` feedback records 
 
 ### Includes
 
@@ -264,7 +263,7 @@ The dataset was built using:
 
 ---
 
-# 🏗️ Methodology
+# Methodology
 
 ## Pipeline
 
@@ -288,54 +287,32 @@ Interactive Dashboard Deployment
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
-✅ CNN + LSTM hybrid achieved highest performance
-✅ Attention mechanisms underperformed
-✅ MCQ feature fusion gave no major improvements
-✅ Text-only representations were highly effective
-✅ Sentence-BERT improved semantic aspect assignment
-
-
+CNN + LSTM hybrid achieved highest performance
+Attention mechanisms underperformed
+MCQ feature fusion gave no major improvements
+Text-only representations were highly effective
+Sentence-BERT improved semantic aspect assignment
 
 ---
 
-# 🖥️ Dashboard Modules
-
-## 📌 Single Feedback Analysis
-
-Analyze one student review in real-time.
-
-## 📌 Bulk Feedback Analysis
-
-Upload CSV files for large-scale sentiment analysis.
-
-## 📌 Faculty Wise Analysis
-
-Compare faculty performance using aspect sentiment scores.
-
-## 📌 Sentiment Distribution
-
-Visualize positive, negative, and neutral distributions.
-
-## 📌 Analytics & Insights
-
-Generate recommendations and institutional insights.
+# Dashboard Modu
 
 ---
 
-# 🎯 Sustainable Development Goals
+# Sustainable Development Goals
 
 This project aligns with:
 
-* 🎓 **SDG 4 – Quality Education**
-* ⚙️ **SDG 9 – Industry, Innovation and Infrastructure**
+* **SDG 4 – Quality Education**
+* **SDG 9 – Industry, Innovation and Infrastructure**
 
 
 
 ---
 
-# 📚 Research Contributions
+# Research Contributions
 
 * Large-scale educational ABSA dataset
 * Benchmark comparison of 17 models
@@ -344,7 +321,7 @@ This project aligns with:
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
 * Akshat Neolia
 * Vikrant Kumar Singh
@@ -359,19 +336,19 @@ SRM Institute of Science and Technology
 
 ---
 
-# 📄 Publications
+# Publications
 
-📌 *Aspect-Based Sentiment Analysis of Student Feedback: A Model Comparison Study* 
+*Aspect-Based Sentiment Analysis of Student Feedback: A Model Comparison Study* 
 
 ---
 
-# 📜 License
+# License
 
 This project is developed for academic and research purposes.
 
 ---
 
-# ⭐ Future Enhancements
+# Future Enhancements
 
 * Transformer fine-tuning
 * Real-time institutional deployment
@@ -382,7 +359,7 @@ This project is developed for academic and research purposes.
 
 ---
 
-# 🙌 Acknowledgements
+# Acknowledgements
 
 Special thanks to:
 
@@ -390,4 +367,3 @@ Special thanks to:
 * Department of Networking and Communications
 * Faculty mentors and reviewers
 * Open-source AI/NLP community
-
