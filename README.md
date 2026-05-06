@@ -287,52 +287,26 @@ Interactive Dashboard Deployment
 
 # Key Findings
 
-✅ CNN + LSTM hybrid achieved highest performance
-✅ Attention mechanisms underperformed
-✅ MCQ feature fusion gave no major improvements
-✅ Text-only representations were highly effective
-✅ Sentence-BERT improved semantic aspect assignment
-
-
+CNN + LSTM hybrid achieved highest performance
+Attention mechanisms underperformed
+MCQ feature fusion gave no major improvements
+Text-only representations were highly effective
+Sentence-BERT improved semantic aspect assignment
 
 ---
 
-# 🖥️ Dashboard Modules
-
-## 📌 Single Feedback Analysis
-
-Analyze one student review in real-time.
-
-## 📌 Bulk Feedback Analysis
-
-Upload CSV files for large-scale sentiment analysis.
-
-## 📌 Faculty Wise Analysis
-
-Compare faculty performance using aspect sentiment scores.
-
-## 📌 Sentiment Distribution
-
-Visualize positive, negative, and neutral distributions.
-
-## 📌 Analytics & Insights
-
-Generate recommendations and institutional insights.
-
----
-
-# 🎯 Sustainable Development Goals
+# Sustainable Development Goals
 
 This project aligns with:
 
-* 🎓 **SDG 4 – Quality Education**
-* ⚙️ **SDG 9 – Industry, Innovation and Infrastructure**
+* **SDG 4 – Quality Education**
+* **SDG 9 – Industry, Innovation and Infrastructure**
 
 
 
 ---
 
-# 📚 Research Contributions
+# Research Contributions
 
 * Large-scale educational ABSA dataset
 * Benchmark comparison of 17 models
@@ -341,7 +315,7 @@ This project aligns with:
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
 * Akshat Neolia
 * Vikrant Kumar Singh
@@ -355,20 +329,19 @@ Department of Networking and Communications
 SRM Institute of Science and Technology 
 
 ---
+# Publications
 
-# 📄 Publications
-
-📌 *Aspect-Based Sentiment Analysis of Student Feedback: A Model Comparison Study* 
+*Aspect-Based Sentiment Analysis of Student Feedback: A Model Comparison Study* 
 
 ---
 
-# 📜 License
+# License
 
 This project is developed for academic and research purposes.
 
 ---
 
-# ⭐ Future Enhancements
+# Future Enhancements
 
 * Transformer fine-tuning
 * Real-time institutional deployment
@@ -379,7 +352,7 @@ This project is developed for academic and research purposes.
 
 ---
 
-# 🙌 Acknowledgements
+# Acknowledgements
 
 Special thanks to:
 
