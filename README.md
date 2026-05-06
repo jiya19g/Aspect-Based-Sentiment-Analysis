@@ -1,4 +1,4 @@
-# 📊 Aspect-Based Sentiment Analysis of Student Feedback
+# Aspect-Based Sentiment Analysis of Student Feedback
 
 An AI-powered educational analytics system that performs **Aspect-Based Sentiment Analysis (ABSA)** on student feedback using **Machine Learning, Deep Learning, NLP, and Streamlit**.
 The project analyzes student reviews across multiple academic aspects such as teaching quality, assessments, labs, workload, mentoring, and learning outcomes to generate actionable institutional insights.
@@ -7,17 +7,17 @@ Built as a final year B.Tech major project at **SRM Institute of Science and Tec
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Traditional sentiment analysis only predicts whether feedback is positive or negative overall.
 This project goes deeper by identifying:
 
-* ✅ **Which academic aspect** the student is talking about
-* ✅ **Sentiment for each aspect**
-* ✅ **Faculty-wise insights**
-* ✅ **Course-wise analytics**
-* ✅ **Interactive dashboard visualizations**
-* ✅ **Bulk feedback analysis**
+*  **Which academic aspect** the student is talking about
+*  **Sentiment for each aspect**
+*  **Faculty-wise insights**
+*  **Course-wise analytics**
+*  **Interactive dashboard visualizations**
+*  **Bulk feedback analysis**
 
 The system benchmarks multiple ML and DL models and compares:
 
@@ -27,7 +27,7 @@ The system benchmarks multiple ML and DL models and compares:
 
 The best-performing model achieved:
 
-🏆 **CNN + LSTM Hybrid**
+**CNN + LSTM Hybrid**
 
 * **Macro F1 Score:** `0.9382`
 
@@ -35,9 +35,9 @@ The project demonstrates that properly conditioned textual representations outpe
 
 ---
 
-# ✨ Features
+# Features
 
-## 🔍 Aspect-Based Analysis
+## Aspect-Based Analysis
 
 Detects sentiments for:
 
@@ -51,7 +51,7 @@ Detects sentiments for:
 
 ---
 
-## 📈 Interactive Dashboard
+## Interactive Dashboard
 
 Built using Streamlit with:
 
@@ -65,7 +65,7 @@ Built using Streamlit with:
 
 ---
 
-## 🤖 AI & NLP Pipeline
+## AI & NLP Pipeline
 
 * Sentence-BERT based aspect labeling
 * CNN + LSTM sentiment classifier
@@ -76,7 +76,7 @@ Built using Streamlit with:
 
 ---
 
-## 📊 Visualization Support
+## Visualization Support
 
 Integrated with:
 
@@ -94,7 +94,7 @@ For:
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -121,7 +121,7 @@ For:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 ├── app.py
@@ -137,9 +137,9 @@ For:
 
 ---
 
-# 📦 Installation
+# Installation
 
-## 1️⃣ Clone Repository
+## 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/aspect-based-student-feedback-analysis.git
@@ -149,7 +149,7 @@ cd aspect-based-student-feedback-analysis
 
 ---
 
-## 2️⃣ Create Virtual Environment
+## 2. Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -171,7 +171,7 @@ source venv/bin/activate
 
 ---
 
-## 3️⃣ Install Dependencies
+## 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -179,7 +179,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Application
+# Run the Application
 
 ```bash
 streamlit run app.py
@@ -187,7 +187,7 @@ streamlit run app.py
 
 ---
 
-# 📋 Requirements
+# Requirements
 
 ```txt
 streamlit>=1.28.0
@@ -208,7 +208,7 @@ torchvision
 
 ---
 
-# 🧪 Models Evaluated
+# Models Evaluated
 
 ## Machine Learning Models
 
@@ -232,12 +232,12 @@ torchvision
 * LSTM
 * BiLSTM
 * GRU
-* CNN + LSTM ✅
+* CNN + LSTM 
 * Attention-based architectures
 
 ---
 
-# 📊 Dataset Information
+# Dataset Information
 
 The dataset was built using:
 
@@ -248,7 +248,7 @@ The dataset was built using:
 
 ### Dataset Size
 
-📌 `133,065` feedback records 
+`133,065` feedback records 
 
 ### Includes
 
@@ -261,7 +261,7 @@ The dataset was built using:
 
 ---
 
-# 🏗️ Methodology
+# Methodology
 
 ## Pipeline
 
@@ -285,7 +285,7 @@ Interactive Dashboard Deployment
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
 ✅ CNN + LSTM hybrid achieved highest performance
 ✅ Attention mechanisms underperformed
