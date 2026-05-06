@@ -7,31 +7,46 @@ Built as a final year B.Tech major project at **SRM Institute of Science and Tec
 
 ---
 
-## 🚀 Project Overview
+# 🚀 Dashboard Preview
 
-Traditional sentiment analysis only predicts whether feedback is positive or negative overall.
-This project goes deeper by identifying:
+## 🖥️ Main Dashboard
 
-* ✅ **Which academic aspect** the student is talking about
-* ✅ **Sentiment for each aspect**
-* ✅ **Faculty-wise insights**
-* ✅ **Course-wise analytics**
-* ✅ **Interactive dashboard visualizations**
-* ✅ **Bulk feedback analysis**
+![Dashboard](<img width="894" height="480" alt="image" src="https://github.com/user-attachments/assets/f94b9109-12a6-46d8-85ca-442eecdd3f3e" />
+)
 
-The system benchmarks multiple ML and DL models and compares:
+*Fig 4.6 Dashboard*
 
-* Text-only sentiment classification
-* Text + MCQ feature fusion
-* Attention vs non-attention architectures
+---
 
-The best-performing model achieved:
+## 🔍 Single Feedback Analysis
 
-🏆 **CNN + LSTM Hybrid**
+![Single Feedback Analysis](sandbox:/mnt/data/d8cf929e-938a-464c-940b-5070c6a59b85.png)
 
-* **Macro F1 Score:** `0.9382`
+*Fig 4.7 Single Feedback Analysis*
 
-The project demonstrates that properly conditioned textual representations outperform more complex attention-based or MCQ-fusion approaches. 
+---
+
+## 📂 Bulk Feedback Analysis
+
+![Bulk Feedback Analysis](sandbox:/mnt/data/6a9f6b2b-de50-43e5-866d-241fa62ef935.png)
+
+*Fig 4.8 Bulk Feedback Analysis*
+
+---
+
+## 👨‍🏫 Faculty Wise Analysis
+
+![Faculty Wise Analysis](sandbox:/mnt/data/173e33b8-f8fe-41ff-ae9b-211deb8986dd.png)
+
+*Fig 4.9 Faculty Wise Analysis*
+
+---
+
+## 📈 Sentiment Distributions
+
+![Sentiment Distributions](sandbox:/mnt/data/5b75694b-485b-492f-8fcf-5a82d1300432.png)
+
+*Fig 4.10 Sentiment Distributions*
 
 ---
 
@@ -155,15 +170,15 @@ cd aspect-based-student-feedback-analysis
 python -m venv venv
 ```
 
-Activate environment:
+### Activate Environment
 
-### Windows
+#### Windows
 
 ```bash
 venv\Scripts\activate
 ```
 
-### Linux / Mac
+#### Linux / Mac
 
 ```bash
 source venv/bin/activate
